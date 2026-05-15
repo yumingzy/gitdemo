@@ -15,5 +15,5 @@ hello git
 hello git
 hello git
 hello git
-branch2
 master v2
+branch2 v2
